@@ -1,0 +1,6 @@
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex02 Barel 308275445 Avia 203339551\B18_Ex02_1\obj\Debug\B18_Ex02_1.csprojResolveAssemblyReference.cache
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex02 Barel 308275445 Avia 203339551\B18_Ex02_1\bin\Debug\B18_Ex02_1.exe
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex02 Barel 308275445 Avia 203339551\B18_Ex02_1\bin\Debug\B18_Ex02_1.pdb
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex02 Barel 308275445 Avia 203339551\B18_Ex02_1\obj\Debug\B18_Ex02_1.exe
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex02 Barel 308275445 Avia 203339551\B18_Ex02_1\obj\Debug\B18_Ex02_1.pdb
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex02 Barel 308275445 Avia 203339551\B18_Ex02_1\bin\Debug\Ex02.ConsoleUtils.dll
